@@ -2,7 +2,7 @@
         <!-- Left Panel -->
         <div class="ve-hero-left">
             <span class="ve-hero-badge">Terpercaya Sejak Tahun 2000 &nbsp;·&nbsp; 420++ Santriwan Santriwati</span>
-            <h1>Selamat Datang di Madrasah Diniyah Al-Hidayah</h1>
+            <h1>Selamat Datang di Madrasah Diniyah & TPQ Al-Hidayah</h1>
             <p>Madrasah Diniyah Al-Hidayah menyediakan pendidikan agama yang berkualitas untuk membantu siswa mencapai
                 keberhasilan akademik dan spiritual.</p>
             {{-- <div class="ve-hero-btns">

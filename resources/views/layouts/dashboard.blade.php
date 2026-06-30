@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Dashboard Madrasah</title>
 
-    <link rel="shortcut icon" href="{{ asset('dashboard/assets/compiled/svg/favicon.svg') }}" type="image/x-icon">
+    <link rel="shortcut icon" href="{{ asset('dashboard/assets/compiled/png/5.png') }}" type="image/x-icon">
 
     <link rel="stylesheet" href="{{ asset('dashboard/assets/compiled/css/app.css') }}">
 
