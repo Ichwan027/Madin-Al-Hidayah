@@ -25,7 +25,9 @@ class DatabaseSeeder extends Seeder
 
             ProfilWebsiteSeeder::class,
 
-            KegiatanAlumniSeeder::class
+            KegiatanAlumniSeeder::class,
+            
+            UserSeeder::class
 
         ]);
     }
